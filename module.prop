@@ -1,6 +1,6 @@
 id=samsung_a70_overlay
 name=Samsung Galaxy A70 Overlay
-version=1.4.0
-versionCode=140
+version=15
+versionCode=150
 author=Der_Googler
-description=Fixed Overlay for Samsung Galaxy A70 (GSI's only)
+description=Fixed Overlay for Samsung Galaxy A70. This is only for Android 12! Supports Pixel 6 Pro spoof.
