@@ -4,3 +4,6 @@ version=15
 versionCode=150
 author=Der_Googler
 description=Fixed Overlay for Samsung Galaxy A70. This is only for Android 12! Supports Pixel 6 Pro spoof.
+
+# Googlers Repo Configuartion
+gr_ignore=yes
